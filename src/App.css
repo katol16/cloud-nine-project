@@ -201,6 +201,7 @@ button {
     font-family: 'Open-Sans';
     font-weight: 300;
     font-size: 15px;
+    padding-bottom: 10px;
 }
 
 .salonItem-arrow {
