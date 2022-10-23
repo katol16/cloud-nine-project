@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cloud-nine-project/static/css/main.18a14545.css",
+    "main.js": "/cloud-nine-project/static/js/main.287546db.js",
+    "static/js/787.44b220b1.chunk.js": "/cloud-nine-project/static/js/787.44b220b1.chunk.js",
+    "static/media/background_photo@3x.png": "/cloud-nine-project/static/media/background_photo@3x.9bb2a1d7849323e1f470.png",
+    "static/media/OpenSans-Regular.ttf": "/cloud-nine-project/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "static/media/FontBureau-MillerBannerLight.otf": "/cloud-nine-project/static/media/FontBureau-MillerBannerLight.8d8fed5a243eba43b679.otf",
+    "static/media/Helvetica-Neue.ttf": "/cloud-nine-project/static/media/Helvetica-Neue.50a6cd509ab1a89a5956.ttf",
+    "index.html": "/cloud-nine-project/index.html",
+    "main.18a14545.css.map": "/cloud-nine-project/static/css/main.18a14545.css.map",
+    "main.287546db.js.map": "/cloud-nine-project/static/js/main.287546db.js.map",
+    "787.44b220b1.chunk.js.map": "/cloud-nine-project/static/js/787.44b220b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a14545.css",
+    "static/js/main.287546db.js"
+  ]
+}
